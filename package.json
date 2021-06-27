@@ -1,0 +1,23 @@
+{
+  "name": "profiles",
+  "version": "1.0.0",
+  "description": "Some stuff my friend made... I made better. ",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "profile",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/friendlymaninthisworld/Profiles-fun.git"
+  },
+  "keywords": [
+    "profile"
+  ],
+  "author": "friendlymaninthisworld",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/friendlymaninthisworld/Profiles-fun/issues"
+  },
+  "homepage": "https://github.com/friendlymaninthisworld/Profiles-fun#readme"
+}
