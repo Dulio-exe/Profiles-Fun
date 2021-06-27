@@ -5,8 +5,7 @@ How do I install?
 
 1. ctrl + alt + T
 2. type :
-   git clone https://github.com/friendlymaninthisworld/Profiles-fun.git
-   cd Profiles-fun
+   git clone https://github.com/friendlymaninthisworld/Profiles-fun.git && cd Profiles-fun
 
 3. type :
    sudo apt-get install nodejs
