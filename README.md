@@ -1,9 +1,10 @@
 # Profiles-fun
 Some stuff my friend made... I made better.
 
-How do I install?
+# How do I run it?
 
-1. ctrl + alt + T
+1. Open up a command-line.
+
 2. type :
    git clone https://github.com/friendlymaninthisworld/Profiles-fun.git && cd Profiles-fun
 
