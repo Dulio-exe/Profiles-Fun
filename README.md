@@ -1,5 +1,4 @@
 # Profiles-fun
-Some stuff my friend made... I made better.
 
 # How do I run it?
 
